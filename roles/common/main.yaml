@@ -1,0 +1,4 @@
+---
+- name: Display Common Message
+  debug:
+    msg: "This is a message from the main repo Main_Test2"
