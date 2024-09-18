@@ -1,0 +1,8 @@
+---
+namespace: Madhu
+name: AnsibleCollection
+version: '1.0.0'
+readme: README.md
+authors: Automation
+roles:
+  - name: common
